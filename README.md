@@ -45,6 +45,32 @@ A planilha desenvolvida permite:
 
 ---
 
+## 📥 Download da Planilha
+
+📊 **[Clique aqui para baixar a planilha Excel](https://github.com/Jessica-SFernandes/simuladordeinvestimento/blob/main/SimuladorFinanceiroDIO.xlsx)**
+
+---
+
+## 🚀 Como Utilizar a Planilha
+
+1. Faça o download do arquivo Excel;
+2. Insira os valores solicitados nos campos indicados;
+3. Observe os cálculos automáticos gerados pela planilha;
+4. Analise os resultados para simular diferentes cenários de investimento.
+
+---
+
+## 👩‍💻 Autora
+
+**Jéssica Fernandes**  
+Estudante de Tecnologia | Em transição de carreira para a área de Dados e Desenvolvimento  
+
+🔗 **LinkedIn**  
+https://www.linkedin.com/in/jessicaf-ernandes/
+
+🔗 **GitHub**  
+https://github.com/Jessica-SFernandes
+
 ## 🛠️ Ferramentas Utilizadas
 
 - **Microsoft Excel**
