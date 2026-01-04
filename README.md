@@ -72,10 +72,7 @@ A planilha desenvolvida permite:
 ## 👩‍💻 Autora
 
 **Jéssica Fernandes**  
-Estudante de Tecnologia | Em transição de carreira para a área de Dados e Desenvolvimento  
+Estudante de Tecnologia | Em transição de carreira para a Tecnologia  
 
-🔗 **LinkedIn**  
-https://www.linkedin.com/in/jessicaf-ernandes/
-
-🔗 **GitHub**  
-https://github.com/Jessica-SFernandes
+🔗 **LinkedIn:** [Perfil profissional](https://www.linkedin.com/in/jessicaf-ernandes/)  
+🔗 **GitHub:** [Repositórios](https://github.com/Jessica-SFernandes)
