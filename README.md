@@ -45,6 +45,15 @@ A planilha desenvolvida permite:
 
 ---
 
+## 🛠️ Ferramentas Utilizadas
+
+- **Microsoft Excel**
+  - Fórmulas financeiras
+  - Funções matemáticas
+  - Organização e estruturação de dados
+ 
+---
+
 ## 📥 Download da Planilha
 
 📊 **[Clique aqui para baixar a planilha Excel](https://github.com/Jessica-SFernandes/simuladordeinvestimento/blob/main/SimuladorFinanceiroDIO.xlsx)**
@@ -70,10 +79,3 @@ https://www.linkedin.com/in/jessicaf-ernandes/
 
 🔗 **GitHub**  
 https://github.com/Jessica-SFernandes
-
-## 🛠️ Ferramentas Utilizadas
-
-- **Microsoft Excel**
-  - Fórmulas financeiras
-  - Funções matemáticas
-  - Organização e estruturação de dados
